@@ -1,0 +1,7 @@
+enum AtcStatus {
+  BUILDING,
+  BUILT,
+  SIGNED,
+  SUBMITTED,
+  COMMITED,
+}
